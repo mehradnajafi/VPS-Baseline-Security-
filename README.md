@@ -14,6 +14,7 @@ This script automates the fix. It locks down the UFW (Uncomplicated Firewall) so
 4. Whitelists those specific IPs for web traffic.
 5. Enables the firewall.
 
+
 ## 🚀 Usage
 
 Run this on a fresh Ubuntu/Debian machine as root or with sudo:
